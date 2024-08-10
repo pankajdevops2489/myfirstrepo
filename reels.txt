@@ -4,3 +4,5 @@ dasdbjkasd
 adjasdnas
 dbkjdas
 djkndas
+adding new lines
+and checking git's new feature
