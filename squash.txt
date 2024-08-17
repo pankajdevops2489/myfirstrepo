@@ -5,3 +5,4 @@ line4
 line5
 adding this line to test some functionality
 some more random lines
+hey, this is a squash example, and it will help me to reduce commits
